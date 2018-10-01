@@ -1,6 +1,5 @@
 /*
 Chris Holland
-V00876844
 March 12, 2017
 MazeSolver.java
 CSC 115 assignment #3
