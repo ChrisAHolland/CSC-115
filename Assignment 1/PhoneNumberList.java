@@ -1,6 +1,5 @@
 /*
 * Name: Christopher Holland
-* ID: V00876844
 * Date: Jan 24, 2017
 * Filename: PhoneNumberList.java
 * Details: CSC 115 Assignment #1
