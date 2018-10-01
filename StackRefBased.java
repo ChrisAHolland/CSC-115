@@ -1,7 +1,5 @@
 /*
 Christopher Holland
-V00876844
-CSC 115 Assingment #3
 StackRefBased.java
 */
 
