@@ -1,6 +1,5 @@
 /*
  * Name: Christopher Holland
- * Student Number: V00876844
  */
 
 public class IntegerLinkedList implements IntegerList
