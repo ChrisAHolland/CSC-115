@@ -1,7 +1,6 @@
 import java.util.*;
 /*
 Chris Holland
-V00876844
 CSC 115, Assignment 4
 BSTMap.java
 */
